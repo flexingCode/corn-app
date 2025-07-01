@@ -1,0 +1,10 @@
+# How to run de backend app
+
+- Configure in appsettings.json the bd connection string
+- exect: dotnet ef database update
+- run: dotnet run
+
+#How to run frontend app
+
+- run: npm install
+- run: npm run dev
